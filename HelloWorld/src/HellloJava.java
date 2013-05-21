@@ -6,7 +6,7 @@ public class HellloJava {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("hej world....ww00099992222988888");
+		System.out.println("hej world....ww00099992222988888еееее");
 
 	}
 
